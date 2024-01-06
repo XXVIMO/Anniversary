@@ -44,7 +44,7 @@ body {
         flex-direction: row-reverse;
     }
     .card img.Happy-Anniversy.png {
-        width: 100%;
+        width: 80%;
         max-width: 50vw;
         max-height: unset;
     }
